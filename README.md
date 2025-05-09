@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working with ChatBot Development
 - 💬 Ask me anything about Web Application Development(Frontend & Backend)!
-- 📚 My StackOverflow: <a href="https://stackoverflow.com/users/30490106/pavlo-shapovalov" target="_blank" rel="noopener noreferrer">stackOverflow/abdul-awal-arif</a>
-- 💼 My Portfolio: <a href="https://pavlo-portfolio-seven.vercel.app" target="_blank" rel="noopener noreferrer">abdulawalarif.github.io</a>
+- 📚 My StackOverflow: <a href="https://stackoverflow.com/users/30490106/pavlo-shapovalov" target="_blank" rel="noopener noreferrer">stackOverflow/pavlo-shapovalov</a>
+- 💼 My Portfolio: <a href="https://pavlo-portfolio-seven.vercel.app" target="_blank" rel="noopener noreferrer">pavlo-portfolio.vercel.app</a>
 - 🎓 My Hackerrank: <a href="https://www.hackerrank.com/profile/shapovalovpavlo1" target="_blank" rel="noopener noreferrer">Hackerrank</a>
 
 
