@@ -13,4 +13,4 @@ I’m a versatile and solutions-oriented full-stack developer with extensive exp
 Over the years, I’ve led and contributed to full-lifecycle development across various industries, from enterprise dashboards and business applications to automation tools and intelligent bots. I thrive in agile environments and excel at bridging the gap between frontend interactivity and backend logic.
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,nodejs,react,next,vue,vite,php,laravel,css,html&perline=9)]
+![My Skills](https://skillicons.dev/icons?i=python,typescript,nodejs,react,next,vue,vite,php,laravel,css,html&perline=9)
